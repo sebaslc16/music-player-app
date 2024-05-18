@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joan Sebastian Londoño</h1>
+<h1 align="center">Hi 👋, I'm Joan Sebastian Londoño </h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 <h2 align="center">This is a Music Player Project</h2>
 <h2 align="center">Skills used: HTML5, CSS3, JavaScript...</h2>
